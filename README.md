@@ -1,5 +1,3 @@
-<!-- Snake animation workflow: create .github/workflows/snake.yml separately -->
-
 <!-- HEADER -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Yasaswini%20Doddi&fontSize=50&fontAlignY=35&desc=C%2B%2B%20%7C%20DSA%20%7C%20DBMS&descAlignY=55&descAlign=50)
 
@@ -8,7 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&width=435&lines=Hi+there!+I'm+Yasaswini+%F0%9F%91%8B;C%2B%2B+%26+DSA+Enthusiast;Future+Software+Engineer)](https://git.io/typing-svg)
 
-<!-- BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=DoddiYasaswini&color=blueviolet&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/Connect-Yasaswini-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yasaswini-doddi-180089368/)
 [![GitHub followers](https://img.shields.io/github/followers/DoddiYasaswini?style=flat-square&logo=github)](https://github.com/DoddiYasaswini)
@@ -19,11 +16,11 @@
 
 ## 💫 About Me
 
-🔭 Currently strengthening **Data Structures & Algorithms** in C++  
-👯 Looking to collaborate on C++ / DSA projects and beginner-friendly open source  
-🤝 Seeking help with optimized C++ code and interview-oriented problem solving  
-🌱 Learning Advanced DSA, OOP in C++, DBMS & SQL  
-💬 Ask me about C++ programming, OOP concepts, DSA fundamentals, SQL basics  
+🔭 Currently strengthening **Data Structures & Algorithms** in C++
+👯 Looking to collaborate on C++ / DSA projects and beginner-friendly open source
+🤝 Seeking help with optimized C++ code and interview-oriented problem solving
+🌱 Learning Advanced DSA, OOP in C++, DBMS & SQL
+💬 Ask me about C++ programming, OOP concepts, DSA fundamentals, SQL basics
 
 ---
 
@@ -41,7 +38,7 @@
 
 <div align="center">
 
-![Yasaswini's GitHub Stats](https://github-readme-stats.vercel.app/api?DoddiYasaswini=DoddiYasaswini&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![Yasaswini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoddiYasaswini&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=DoddiYasaswini&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DoddiYasaswini&theme=dark&hide_border=true&layout=compact)
 
@@ -63,7 +60,7 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/yasaswinidoddi2007?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/yasaswinidoddi2007?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/yasaswinidoddi2007)
 
 </div>
 
@@ -92,9 +89,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DoddiYasaswini/DoddiYasaswini/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DoddiYasaswini/DoddiYasaswini/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/DoddiYasaswini/DoddiYasaswini/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DoddiYasaswini/Yash/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DoddiYasaswini/Yash/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/DoddiYasaswini/Yash/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
