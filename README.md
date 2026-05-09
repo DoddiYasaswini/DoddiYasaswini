@@ -41,7 +41,7 @@
 
 <div align="center">
 
-![Yasaswini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoddiYasaswini&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![Yasaswini's GitHub Stats](https://github-readme-stats.vercel.app/api?DoddiYasaswini=DoddiYasaswini&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=DoddiYasaswini&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DoddiYasaswini&theme=dark&hide_border=true&layout=compact)
 
