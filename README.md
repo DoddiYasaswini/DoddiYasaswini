@@ -38,8 +38,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DoddiYasaswini&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoddiYasaswini&theme=tokyonight&hide_border=true&layout=compact" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DoddiYasaswini&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DoddiYasaswini&theme=tokyonight&hide_border=true&layout=compact" height="165" />
 
 </div>
 
@@ -49,7 +49,7 @@
 
 </div>
 
----
+--
 
 ## 📈 Activity Graph
 
